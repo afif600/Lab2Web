@@ -21,7 +21,7 @@ Untuk memulai membuat kode php, perlu disiapkan web server dan interpreter PHP t
 ### Memulai PHP
 <p>Buat folder (lab2_php_dasar) pada root direktori web server (C:\xampp\htdocs)
 
-![Buat Folder](img/buat_folder.png)
+![Buat Folder](img/buat_folder.PNG)
 
 <p>Kemudian untuk mengakses direktori tersebut pada web server dengan mengakses URL: http://localhost/lab2_php_dasar/
 
