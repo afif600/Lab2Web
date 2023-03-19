@@ -50,7 +50,7 @@ Untuk memulai membuat kode php, perlu disiapkan web server dan interpreter PHP t
 
 <p>Kemudian untuk mengakses hasilnya melalui URL: http://localhost/Lab2Web/php_dasar.php
 
-![PHP DASAR](img/php_dasar.png)
+!(img/php_dasar.png)
 
 ### Variable PHP
 <p>Tambahkan kodingan (variable_php.php) Untuk menambahkan variable pada program.
