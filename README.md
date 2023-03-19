@@ -25,7 +25,7 @@ Untuk memulai membuat kode php, perlu disiapkan web server dan interpreter PHP t
 
 <p>Kemudian untuk mengakses direktori tersebut pada web server dengan mengakses URL: http://localhost/lab2_php_dasar/
 
-![Lab2Web](img/lab2_php_dasar.png)
+![Lab2Web](img/lab2_php_dasar.PNG)
 
 ### PHP Dasar
 <p>Buat file baru dengan nama (php_dasar.php) pada directory tersebut. Kemudian buat kode seperti berikut.
@@ -50,7 +50,7 @@ Untuk memulai membuat kode php, perlu disiapkan web server dan interpreter PHP t
 
 <p>Kemudian untuk mengakses hasilnya melalui URL: http://localhost/Lab2Web/php_dasar.php
 
-!(img/php_dasar.png)
+!(img/php_dasar.PNG)
 
 ### Variable PHP
 <p>Tambahkan kodingan (variable_php.php) Untuk menambahkan variable pada program.
@@ -65,7 +65,7 @@ echo "Nama : $nama";
 ?>
 ```
 
-![Variable PHP](img/variable_php.png)
+![Variable PHP](img/variable_php.PNG)
 
 ### Predefine Variable
 <p>Buat file (predefine_variable.php) dalam direktori Lab2Web. lalu masukan kode berikut.
@@ -80,7 +80,7 @@ echo "Selamat Datang " . $_GET['nama'];
 
 <p>Untuk mengaksesnya gunakan URL: http://localhost/Lab2Web/predefine_variable.php?nama=Afif 
 
-![Predefine Variable](img/predefine_variable.png)
+![Predefine Variable](img/predefine_variable.PNG)
 
 ### Membuat Form Input
 - Buat file (membuat_form_input.php) didalam direktori Lab2Web, Kemudian tambahkan kode berikut.
@@ -111,7 +111,7 @@ echo "Selamat Datang " . $_GET['nama'];
 - Lalu inputkan sesuatu dalam kolom form tersebut, kemudian klik Kirim.
 - Maka, hasilnya akan seperti berikut:
 
-![Form Input](img/membuat_form_input.png)
+![Form Input](img/membuat_form_input.PNG)
 
 ### Operator
 - Buat file (operator.php) didalam direktori Lab2Web, Kemudian masukan kode berikut.
@@ -126,7 +126,7 @@ echo "Gaji yang dibawa pulang = Rp. $thp";
 
 - Maka, hasilnya akan seperti berikut.
 
-![Operator](img/operator.png)
+![Operator](img/operator.PNG)
 
 ### Kondisi IF
 - Buat file (kondisi_if.php) didalam direktori Lab2Web, Kemudian masukan kode berikut.
@@ -144,7 +144,7 @@ echo "Selasa";
 
 - Maka, hasilnya akan seperti berikut.
 
-![Kondisi IF](img/kondisi_if.png)
+![Kondisi IF](img/kondisi_if.PNG)
 
 ### Kondisi Switch
 - Buat file (kondisi_switch.php) didalam direktori Lab2Web, Kemudian masukan kode berikut.
@@ -168,7 +168,7 @@ echo "Sabtu";
 
 - Maka, hasilnya akan seperti berikut.
 
-![Kondisi Switch](img/kondisi_switch.png)
+![Kondisi Switch](img/kondisi_switch.PNG)
 
 ### Perulangan For
 - Buat file (perulangan_for.php) didalam direktori Lab2Web, Kemudian masukan kode berikut.
@@ -186,7 +186,7 @@ echo "Perulangan ke: " . $i . '<br />';
 
 - Maka, hasilnya akan seperti berikut.
 
-![Perulangan For](img/perulangan_for.png)
+![Perulangan For](img/perulangan_for.PNG)
 
 ### Perulangan While
 - Buat file (perulangan_while.php) didalam direktori Lab2Web, Kemudian masukan kode berikut.
@@ -202,7 +202,7 @@ $i++;
 
 - Maka, hasilnya akan seperti berikut.
 
-![Perulangan While](img/perulangan_while.png)
+![Perulangan While](img/perulangan_while.PNG)
 
 ### Perulangan Do While
 - Buat file (perulangan_dowhile.php) didalam direktori Lab2Web, Kemudian masukan kode berikut.
@@ -218,7 +218,7 @@ $i++;
 
 - Maka, hasilnya sama saja dengan perulangan sebelumnya, seperti berikut.
 
-![Perulangan Dowhile](img/perulangan_dowhile.png)
+![Perulangan Dowhile](img/perulangan_dowhile.PNG)
 
 # Pertanyaan & Tugas
 <p>Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan.
@@ -419,10 +419,10 @@ span {
 
 - Maka, hasilnya akan seperti berikut.
 
-![Praktikum1](img/praktikum_input.png)
+![Praktikum1](img/praktikum_input.PNG)
 
 - Sesudah diinputkan.
 
-![Praktikum2](img/praktikum_output.png)
+![Praktikum2](img/praktikum_output.PNG)
 
 # Terima Kasih!!!
